@@ -1,0 +1,4 @@
+tld:
+    resource: "@TLDBundle/Controller/"
+    type:     annotation
+    prefix:   /
